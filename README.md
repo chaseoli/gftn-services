@@ -1,4 +1,4 @@
-# Global Financial Transaction Network Services
+# World Wire
 
 This code was developed at IBM during 2017-2020, and contributed to open source in September 2021.
 
